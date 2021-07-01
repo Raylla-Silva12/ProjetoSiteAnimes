@@ -80,9 +80,23 @@ button[type="submit"] {
   background-color: rgb(5, 4, 4);
   
 }
-hr {
-  background-color: blanchedalmond;
-  color: aliceblue;
+li {
+  font-size: 20px;
+}
+img {
+  margin-bottom: 1.3em;
+  margin-left: 1%;
+  border-radius: 15px;
+}
+.all-img {
+  margin-top: 7em;
+}
+.img-colunas {
+ margin-left: 2.5em;
+}
+
+@media (max-width: 530px) {
+
 }
 
 
