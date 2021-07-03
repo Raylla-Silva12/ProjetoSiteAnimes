@@ -43,6 +43,7 @@ body {
 
 .form-signin .form-control:focus {
   z-index: 2;
+  background-color: rgb(5, 4, 4);
 }
 
 .form-signin input {
