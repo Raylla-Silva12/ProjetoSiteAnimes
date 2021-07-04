@@ -117,7 +117,8 @@ h4 {
 
 .textimg{
   color: white;
-  font-size: 10pt;
+  font-size: 13px;
+  margin: 8px;
 }
 
 .indexImgs{
@@ -168,8 +169,8 @@ h4 {
 
 .back {
   transform: rotateY(180deg);
-  background-image: linear-gradient(#5208B2,#7836CF);
-  border: solid thin darkred;
+  background-image: linear-gradient(#521aee, #e222a9);
+  border: solid thin rgb(221, 12, 12);
   border-radius: 15px;
   overflow: hidden;
   
