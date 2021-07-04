@@ -173,5 +173,20 @@ h4 {
   border: solid thin rgb(221, 12, 12);
   border-radius: 15px;
   overflow: hidden;
-  
+}
+
+hr {
+  border-color: rgb(123, 27, 212);
+  margin-bottom: 35px;
+}
+
+h5 {
+  font-size: 16px;
+}
+
+footer {
+  color: rgb(123, 27, 212);
+  height: bottom;
+  font-size: 40px;
+  margin-bottom: 35px;
 }
